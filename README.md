@@ -8,4 +8,10 @@ Test 2026/04/06
 6
 7
 
+<<<<<<< HEAD
 main
+=======
+Branch2
+
+
+>>>>>>> branch2
